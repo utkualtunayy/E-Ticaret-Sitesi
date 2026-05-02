@@ -1,0 +1,220 @@
+body {
+    background-color: #f2f6fb;
+    font-family: Arial, sans-serif;
+}
+
+.ustbar {
+    margin-top: 10px;
+    display: flex;
+    background-color: #1f4f8b;
+    border: 2px solid #173d6a;
+    border-radius: 30px;
+    height: 70px;
+    text-align: center;
+    align-items: center;
+}
+
+.ustbar h1 {
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 20px;
+    text-align: center;
+    color: #f7fbff;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+
+
+.üsty {
+    margin-left: 30%;
+    display: flex;
+    align-items: center;
+}
+
+.üstyazı {
+    font-family: Arial, sans-serif;
+    text-decoration: none;
+    color: #f7fbff;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0px 10px;
+}
+
+.sepet {
+    text-decoration: none;
+    color: #f7fbff;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0px 10px;
+}
+
+.sepet:hover {
+    color: #ffd166;
+    scale: 1.3;
+}
+
+
+.üstyazı:hover {
+    color: #ffd166;
+    scale: 1.3;
+}
+
+.resim1 {
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
+
+.ortala {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.orta {
+    display: flex;
+    align-items: center;
+    background-color: #e8f1fb;
+    color: #1f2d48;
+    padding: 60px 20px;
+    border-radius: 15px;
+    margin: 20px;
+    gap: 40px;
+    width: 70%;
+}
+
+.ortam {
+    margin-left: 10%;
+}
+
+.ortam h2 {
+    font-size: 40px;
+}
+
+.ortam p {
+    font-size: 18px;
+    margin-bottom: 24px;
+}
+
+.btn {
+    text-align: center;
+    display: inline-block;
+    background-color: #2d81ff;
+    color: white;
+    text-decoration: none;
+    border-radius: 15px;
+    font-weight: bold;
+    cursor: pointer;
+    width: 100px;
+    height: 40px;
+}
+
+.btn:hover {
+    background-color: #1c4f91;
+    transform: scale(1.3);
+}
+
+.resim {
+    flex: 1;
+    margin-right: 13%;
+    text-align: center;
+}
+
+.resim img {
+    border-radius: 15px;
+    float: inline-end;
+}
+
+.erkc:hover {
+    cursor: pointer;
+    color: #81a9ff;
+}
+
+.kızc:hover {
+    cursor: pointer;
+    color: #ff94d9;
+}
+
+#erkek:hover {
+    color: #81a9ff;
+    scale: 1.2;
+}
+
+.altbar {
+    font-family: cursive;
+    justify-content: space-around;
+    display: flex;
+    background-color: #12304c;
+    height: 150px;
+    color: #f7fbff;
+    border-radius: 15px;
+}
+
+.altbar p {
+    margin: 10px;
+    font-size: 15px;
+}
+
+.git {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bilgi {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.kural {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul {
+    list-style-type: none;
+
+}
+
+.yazı1:hover {
+    cursor: pointer;
+    color: #ffd166;
+}
+
+.yazı2:hover {
+    cursor: pointer;
+    color: #ffd166;
+}
+
+.yazı3 a:hover {
+    cursor: pointer;
+    color: #8cb5ff;
+}
+
+.yazı4 a:hover {
+    cursor: pointer;
+    color: #8cb5ff;
+}
+
+.yazı5:hover {
+    cursor: pointer;
+    color: #8cb5ff;
+}
+
+.yazı6:hover {
+    cursor: pointer;
+    color: #8cb5ff;
+}
+
+.yazı7:hover {
+    cursor: pointer;
+    color: #8cb5ff;
+}
