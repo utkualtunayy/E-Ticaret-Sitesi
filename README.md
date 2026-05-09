@@ -1,5 +1,6 @@
 # E-Ticaret-Sitesi
-Bu site bir giyim satış sitesidir <br>
+Bu site bir giyim satış sitesidir <br> <br>
+
 <img width="1920" height="1080" alt="anasayfa bir" src="https://github.com/user-attachments/assets/d63ced0f-e5c0-411e-bc6e-9c8e6150eade" /> <br>
 <img width="1920" height="1080" alt="anasayfa iki" src="https://github.com/user-attachments/assets/60998f19-74b1-448b-8eef-b88b159fa3c6" /> <br>
 <img width="1920" height="1080" alt="anasayfa üç" src="https://github.com/user-attachments/assets/f2977068-c3b5-4cd4-917f-dc8dcf661dbc" /><br>
